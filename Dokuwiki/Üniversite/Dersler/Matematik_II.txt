@@ -1,0 +1,8 @@
+Dersin Kodu   : BLM108
+
+Dersin Adı    : Matematik II
+
+Öğretim Elemanları : Prof. Dr. [[Ahmet ERDİLYEPYENİ]]	erdil@universite.edu.tr	02623036723
+                     Prof. Dr. [[Hikmet Hakan GÜREL]]	hhakan.gurel@universit.edu.tr	2667032215
+                     
+Dersin İçeriği: 3 Boyutlu uzayda vektörler; Doğrular ve düzlemler; Koordinat sstemleri ve dönüşümleri; Vektör değerli fonksiyonlar, Çok değişkenli fonksiyonlar: Limit , Süreklilik, Kısmi Türev, Zincir Kuralı, Yönlü Türev, Diferansiyel; Maksimum-Minimum problemleri, Lagrange çarpanları; Çok katlı integraller ve uygulamaları; Eğrisel integraller ve yüzey integralleri. [[Matematik I]] dersinin devamı niteliğindedir.
